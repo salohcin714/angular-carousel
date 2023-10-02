@@ -12,11 +12,11 @@ Live demo can be found on [home page](http://ivylab.space/carousel).
 
 Install the npm package.
 ```
-  npm i angular-responsive-carousel
+  npm i ngx-responsive-carousel
 ```
 Import module:
 ```ts
-  import {IvyCarouselModule} from 'angular-responsive-carousel';
+  import {IvyCarouselModule} from 'ngx-responsive-carousel';
 
   @NgModule({
       imports: [IvyCarouselModule]

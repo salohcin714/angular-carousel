@@ -1,5 +1,5 @@
 {
-  "name": "angular-responsive-carousel",
+  "name": "ngx-responsive-carousel",
   "version": "2.1.0",
   "description": "Carousel for Angular. A simple solution for horizontal scrolling images with lazy loading.",
   "repository": {
