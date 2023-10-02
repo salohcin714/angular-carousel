@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/ngx-responsive-carousel",
+  "dest": "../../dist/ngx-ivy-responsive-carousel",
   "lib": {
     "entryFile": "src/public-api.ts"
   }

@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ngx-responsive-carousel
+ * Public API Surface of ngx-ivy-responsive-carousel
  */
 
 export * from './lib/carousel.module';

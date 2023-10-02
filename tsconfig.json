@@ -3,9 +3,9 @@
   "compileOnSave": false,
   "compilerOptions": {
     "paths": {
-      "ngx-responsive-carousel": [
-        "dist/ngx-responsive-carousel/ngx-responsive-carousel",
-        "dist/ngx-responsive-carousel"
+      "ngx-ivy-responsive-carousel": [
+        "dist/ngx-ivy-responsive-carousel/ngx-ivy-responsive-carousel",
+        "dist/ngx-ivy-responsive-carousel"
       ]
     },
     "baseUrl": "./",
